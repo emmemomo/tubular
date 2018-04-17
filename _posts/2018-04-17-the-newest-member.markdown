@@ -28,5 +28,5 @@ post-par4: As of now, we in the mechanical team are deeming all the components f
 necessary parts. At the same time we also need to finalizing the schematic models for both the AirCore systems. Our next step is 
 to build a simple model as soon as possible in order to launch the testing phase. 
 
-post-par5: I will be back \(^o^)/
+post-par5: I will be back with another post in 13 days! 
 ---
